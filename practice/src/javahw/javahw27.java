@@ -13,7 +13,7 @@ public class javahw27 {
 		}
 		
 		Arrays.sort(arr, Collections.reverseOrder());	//Collections클래스의 reverseOrder함수를 이용해서 거꾸로 정렬
-		System.out.println(Arrays.toString(arr));	// 결과물 산출
+		System.out.println(Arrays.toString(arr));	// 결과물 산출 
 	}
 
 }
