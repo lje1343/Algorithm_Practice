@@ -1,3 +1,3 @@
-## Algorithm_Practice
-* 자바 알고리즘 문제 풀이
-* 파이썬 알고리즘 문제 풀이
+# 📝 Algorithm_Practice
+<br>
+✔️ JAVA와 PYTHON을 사용한 알고리즘 문제 풀이입니다. <br>
